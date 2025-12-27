@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Run Locally
 ```bash
-streamlit run app.py
+streamlit run summarizer.py
 ```
 
 ## Deployment
