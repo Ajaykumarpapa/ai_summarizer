@@ -50,7 +50,7 @@ The application will open in your browser at `http://localhost:8501`.
 ├── summarizer.py       # Main Streamlit application (297 lines)
 ├── requirements.txt    # Python dependencies with pinned versions
 ├── packages.txt        # System-level dependencies (python3-dev, build-essential)
-├── gitignore           # Git ignore configuration
+├── .gitignore          # Git ignore configuration
 └── readme.md           # Project documentation
 ```
 
