@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import re
 import time
 import PyPDF2
-import io
 
 # Configure page
 st.set_page_config(
